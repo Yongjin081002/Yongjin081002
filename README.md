@@ -1,6 +1,6 @@
 ## daegu jjang 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://www.instagram.com/kimu_yj/"><img src="https://img.shields.io/badge/instargram-#E4405F?style=flat-square&logo=instargram&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/kimu_yj/"><img src="https://img.shields.io/badge/instargram-E4405F?style=flat-square&logo=instargram&logoColor=E4405F"/></a>
 
 <!--
 **Yongjin081002/Yongjin081002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
