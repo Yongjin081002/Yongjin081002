@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongjin081002)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
 
 **Yongjin081002/Yongjin081002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
