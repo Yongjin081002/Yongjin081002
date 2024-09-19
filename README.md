@@ -1,5 +1,5 @@
 ## my skils 👋
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002&theme=blue-green'>
+
 
 <p></p>
   <div>
@@ -12,5 +12,7 @@
     <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
     <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
   </div>
+  
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002&theme=blue-green'>
 
 
