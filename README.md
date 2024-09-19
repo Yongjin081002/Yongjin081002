@@ -1,5 +1,5 @@
 ## my skils 👋
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yong081002&theme=blue-green'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?Yong081002=Yong081002&theme=blue-green'>
 
 <p></p>
   <div>
