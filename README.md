@@ -29,10 +29,10 @@
     
    <h2>about me </h2>
     <a href='https://www.instagram.com/kimu_yj/'>
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+       <img src='https://skillicons.dev/icons?i=instagram,)](https://skillicons.dev'>
     </a>
     <a href='https://yong08.notion.site/451eba842c3441cc97c5a7f49f511cbe?pvs=4'>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+      <img src='https://skillicons.dev/icons?i=notion,)](https://skillicons.dev'>
     </a>
     <hr>
     <br>
