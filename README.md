@@ -1,3 +1,7 @@
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yongjin%20Github!&fontSize=90" />	
+</div>
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Yongjin081002?pet-id=649054095707199053"
@@ -5,10 +9,6 @@
     height="120"
   />
 </a>
-
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yongjin%20Github!&fontSize=90" />	
-</div>
     <div display="flex" flex-direction="column">
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002&theme=blue-green'>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1407" alt="Solved.ac Profile">
