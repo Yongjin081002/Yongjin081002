@@ -5,7 +5,11 @@
   height="300"
 />
 </a>
-
+    <div display="flex" flex-direction="column">
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002&theme=blue-green'>
+      <img src='https://github-readme-stats.vercel.app/api?username=Yongjin081002&hide=contribs,prs&show_icons=true&theme=whiegray)'>
+    </div>
+    
 ## my skils 👋
   <p></p>
     <div>
@@ -37,6 +41,5 @@
     <hr>
     <br>
     <br>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002&theme=blue-green'>
 
 
