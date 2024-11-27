@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=yongjin%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yongj%20Github!&fontSize=90" />	
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
