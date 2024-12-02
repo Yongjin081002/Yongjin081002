@@ -31,7 +31,7 @@
       <br>
         <img src='https://skillicons.dev/icons?i=js,html,css,react,vue,)](https://skillicons.dev'>
       <br>
-        <img src='https://skillicons.dev/icons?i=python,github,)](https://skillicons.dev'>
+        <img src='https://skillicons.dev/icons?i=python,github,c alt="C Language")](https://skillicons.dev'>
     </div>
     <hr>
     
