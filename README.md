@@ -22,14 +22,12 @@
     <hr>
     
    <h2>about me </h2>
-    <a href='https://www.instagram.com/kimu_yj/'>
+<!--     <a href='https://www.instagram.com/kimu_yj/'>
        <img src='https://skillicons.dev/icons?i=instagram,)](https://skillicons.dev'>
+    </a> -->
+     <a href='https://www.figma.com/design/QDKZIr4fDPqO7EjaAv15QN/%ED%8F%AC%ED%8F%B4?node-id=0-1&t=wkuujeTdubcVEnTB-1'>
+      <img src='https://skillicons.dev/icons?i=figma,)](https://skillicons.dev'>
     </a>
-    <a href='https://yong08.notion.site/451eba842c3441cc97c5a7f49f511cbe?pvs=4'>
-      <img src='https://skillicons.dev/icons?i=notion,)](https://skillicons.dev'>
-    </a>
-    <hr>
-    <br>
-    <br>
+    
 
 
