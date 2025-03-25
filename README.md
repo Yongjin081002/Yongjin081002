@@ -16,8 +16,10 @@
     
 ## my skils 👋
   <p></p>
-        <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,java" alt="Tech stack icons">
-        <img src='https://skillicons.dev/icons?i=python,github,c alt="C Language",)](https://skillicons.dev'>
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+         <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,java,mysql" alt="Tech stack icons">
+	<img src='https://skillicons.dev/icons?i=python,github,c alt="C Language",)](https://skillicons.dev'>
+  </div>
     </div>
     <hr>
     
