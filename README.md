@@ -6,7 +6,7 @@
   <img
     src="https://render.gitanimals.org/lines/Yongjin081002?pet-id=649054095707199053"
     width="601"
-    height="121"
+    height="120"
   />
 </a>
     <div display="flex" flex-direction="column">
