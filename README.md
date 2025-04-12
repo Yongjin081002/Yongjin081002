@@ -17,8 +17,9 @@
 ## my skils 👋
   <p></p>
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-         <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,typescript,vue,java,mysql" alt="Tech stack icons">
-	<img src='https://skillicons.dev/icons?i=python,github,c alt="C Language",)](https://skillicons.dev'>
+         <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,typescript, alt="Tech stack icons">
+	  <hr>
+	<img src='https://skillicons.dev/icons?i=python,github,c,vue,java,mysql, alt="C Language",)](https://skillicons.dev'>
   </div>
     </div>
     <hr>
