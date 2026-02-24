@@ -12,7 +12,6 @@
 </a>
     <div display="flex" flex-direction="column">
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002&theme=blue-green'>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1407" alt="Solved.ac Profile">
     </div>
     
 ## my skils 👋
