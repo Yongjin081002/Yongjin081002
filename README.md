@@ -10,14 +10,14 @@
     height="120"
   />
 </a>
-    <div display="flex" flex-direction="column">
+    <!-- <div display="flex" flex-direction="column">
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002&theme=blue-green'>
-    </div>
+    </div> -->
     
 ## my skils 👋
   <p></p>
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-         <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,typescript, alt="Tech stack icons">
+         <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,typescript" alt="Tech stack icons">
 	  <hr>
 	<img src='https://skillicons.dev/icons?i=python,github,c,vue,java,mysql,)](https://skillicons.dev'>
   </div>
