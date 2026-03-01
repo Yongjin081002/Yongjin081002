@@ -1,14 +1,15 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yongj%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yongj%20Github!&fontSize=90" 
+	/>
 </div>
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yongjin081002&utm_content=line">
-  <img
+  <!-- <img
     src="https://render.gitanimals.org/lines/Yongjin081002?pet-id=717206830727943932"
     width="600"
     height="120"
-  />
+  /> -->
 </a>
     <!-- <div display="flex" flex-direction="column">
       <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin081002&theme=blue-green'>
